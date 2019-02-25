@@ -3,7 +3,6 @@
 
 > <img src="https://github.com/BiggaHD/Reactive-Tube/blob/master/create-react-app.svg" height="450" width="600">
 
-<<<<<<< HEAD
 > ### It's deployed on Heroku. Check it out: https://reactive-clima.herokuapp.com/
 =======
 >>>>>>> 9dab3f89a02fc83961f0a6c7f2c69d6b923cbc8b
