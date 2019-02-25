@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+PilePile Weather.png
+package-lock.json
 
 # testing
 /coverage
