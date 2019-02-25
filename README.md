@@ -5,4 +5,8 @@
 
 > ### It's deployed on Heroku. Check it out: https://reactive-clima.herokuapp.com/
 
+<<<<<<< HEAD
 > > #### Feel free to download the code, setup your own API key, and use it under MIT license.
+=======
+> > #### Feel free to download the code, setup your own API key, and use it under MIT license.
+>>>>>>> 6cc3acfc969b8f2979c2faf9cadf320311dae15c
