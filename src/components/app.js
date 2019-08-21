@@ -7,7 +7,6 @@ export default class App extends Component {
     return (
       <div>
           <h3 className="clima">Reactive Clima ™</h3>
-          <p className="pull-left">Inspired by Dženan</p>
           <SearchBar />
           <WeatherList />
         </div>

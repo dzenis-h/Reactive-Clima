@@ -4,6 +4,9 @@
 /node_modules
 PilePile Weather.png
 package-lock.json
+.firebase
+firebase.json
+.firebaserc
 
 # testing
 /coverage
